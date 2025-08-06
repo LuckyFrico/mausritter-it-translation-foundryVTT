@@ -2,8 +2,19 @@
   "id": "mausritter-it-translation",
   "title": "Traduzione Italiana per Mausritter",
   "description": "Modulo di traduzione in italiano per il sistema Mausritter in Foundry VTT.",
-  "version": "1.0.0",
-  "author": "LuckyFrico",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.999"
+  },
+  "authors": [
+    {
+      "name": "LuckyFrico",
+      "url": "https://github.com/LuckyFrico",
+      "discord": "LuckyFrico#3385"
+    }
+  ],
+  "system": ["mausritter"],
   "languages": [
     {
       "lang": "it",
@@ -11,14 +22,7 @@
       "path": "lang/it.json"
     }
   ],
-  "name": "dnd5e-it-translation",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13.999"
-  },
-  "minimumCoreVersion": "13",
-  "compatibleCoreVersion": "13.999",
-  "system": ["mausritter"],
   "manifest": "https://github.com/LuckyFrico/mausritter-it-translation-foundryVTT/releases/latest/download/module.json",
-  "download": "https://github.com/LuckyFrico/mausritter-it-translation-foundryVTT/releases/download/v1.0.2/module.zip"
+  "download": "https://github.com/LuckyFrico/mausritter-it-translation-foundryVTT/releases/download/v1.0.1/module.zip",
+  "url": "https://github.com/LuckyFrico/mausritter-it-translation-foundryVTT"
 }
