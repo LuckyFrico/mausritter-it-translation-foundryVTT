@@ -45,7 +45,7 @@
 
     "Maus.InventoryCarried" : "Trasportato: Pronto all'uso",
     "Maus.InventoryWorn" : "Indossato: Sempre pronto",
-    "Maus.InventoryPack" : "Nello zaino: richiede tempo per essere preparato. Durante il combattimento, è necessaria un'azione per recuperarlo.",
+    "Maus.InventoryPack" : "Nello zaino: richiede del tempo per essere preparato. Durante il combattimento, è necessaria un'azione per recuperarlo.",
     "Maus.InventoryGrit" : "Grinta",
     "Maus.InventoryBank" : "Banca",
     "Maus.InventoryAddItem" : "Aggiungi Oggetto",
@@ -88,7 +88,7 @@
     "Maus.RollNormal" : "Normale",
     "Maus.RollEnhanced" : "Migliorato",
     "Maus.RollImpaired" : "Ostacolato",
-    "Maus.RollPowerDesc" : "Quanto potere?",
+    "Maus.RollPowerDesc" : "Quanto potere infondere?",
     "Maus.RollSum" : "Somma", 
     "Maus.RollDice" : "Dadi",
     "Maus.RollSumKeyword": "[SOMMA]",
