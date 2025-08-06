@@ -1,4 +1,8 @@
 # mausritter-it-translation-foundryVTT
-Traduzione italiana per il sistema di gioco Mausritter in Foundry VTT
+## Italian translation for the Mausritter game system in Foundry VTT
 
+**Foundry VTT System**
 https://foundryvtt.com/packages/mausritter/
+
+**Official game system website**
+https://mausritter.com/
