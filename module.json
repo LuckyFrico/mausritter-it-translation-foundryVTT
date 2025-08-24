@@ -4,7 +4,7 @@
   "description": "Modulo di traduzione in italiano per il sistema Mausritter in Foundry VTT.",
   "version": "1.0.2",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "11",
     "verified": "13.347",
     "maximum": "13.999"
   },
