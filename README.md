@@ -5,10 +5,10 @@ Traduzione italiana per il sistema Mausritter in Foundry VTT
 1. All'interno di Foundry, selezionare la scheda Moduli Aggiuntivi.
 2. Clicca su Installa modulo e incolla il seguente indirizzo: https://github.com/LuckyFrico/mausritter-it-translation-foundryVTT/releases/latest/download/module.json
 3. Clicca su Installa e attendi il completamento.
-4. Attiva il modulo all'interno del tuo Mondo di Gioco con sistema D&D 5e
+4. Attiva il modulo all'interno del tuo Mondo di Gioco con sistema Mausritter
 
 ## Sistemi supportati
-* [Mauseritter](https://foundryvtt.com/packages/mausritter/)
+* [Mausritter](https://foundryvtt.com/packages/mausritter/)
 
 **Pagina web ufficiale del sistema** - https://mausritter.com/
 
