@@ -4,13 +4,13 @@
 			"character": "Personaggio",
 			"hireling": "Mercenario",
 			"creature": "Creatura",
-			"storage": "Spazio"
+			"storage": "Contenitore"
 		},
 		"Item": {
 			"item": "Oggetto",
 			"weapon": "Arma",
 			"armor": "Armatura",
-			"storage": "Spazio",
+			"storage": "Contenitore",
 			"condition": "Condizione",
 			"spell": "Incantesimo"
 		}
@@ -40,12 +40,12 @@
     "Maus.Pips" : "Semi",
     "Maus.Inventory" : "Inventario",
     "Maus.Notes" : "Note",
-    "Maus.Storage" : "Spazio",
+    "Maus.Storage" : "Capacità di Carico",
     "Maus.Options" : "Opzioni",
 
-    "Maus.InventoryCarried" : "Trasportato: Pronto all'uso",
-    "Maus.InventoryWorn" : "Indossato: Sempre pronto",
-    "Maus.InventoryPack" : "Nello zaino: richiede del tempo per essere preparato. Durante il combattimento, è necessaria un'azione per recuperarlo.",
+    "Maus.InventoryCarried" : "Impugnato: pronto all'uso",
+    "Maus.InventoryWorn" : "Indossato: recupero rapido.",
+    "Maus.InventoryPack" : "Nello zaino: richiede tempo per recuperare l’oggetto (un’azione in combattimento).",
     "Maus.InventoryGrit" : "Grinta",
     "Maus.InventoryBank" : "Banca",
     "Maus.InventoryAddItem" : "Aggiungi Oggetto",
@@ -98,5 +98,5 @@
     "Maus.RollTarget" : "Bersaglio",
     "Maus.RollAD" : "V/S",
     "Maus.RollMiscast" : "Disastro Magico",
-    "Maus.RollMiscastDesc" : "Subisci [[/r !miscast!d6]] danni alla VOL <br/> Dopodiché, deve effettuare un TS di VOL; se fallisce, riceve una condizione <i>Sfinito.</i>"
+    "Maus.RollMiscastDesc" : "Subisci [[/r !miscast!d6]] danni alla VOL <br/> Dopodiché, devi effettuare un TS di VOL; se fallisce, ricevi la condizione <i>Sfinito.</i>"
 }
