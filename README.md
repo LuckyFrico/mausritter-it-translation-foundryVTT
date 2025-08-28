@@ -1,4 +1,4 @@
-# mausritter-it-translation-foundryVTT
+# Mausritter System italian translation for FoundryVTT
 Traduzione italiana per il sistema Mausritter in Foundry VTT
 
 ## Installazione
